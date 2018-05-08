@@ -58,7 +58,7 @@ public class Persona extends PersonaApp.PersonaPOA {
     }
     
 
-    @Override
+        @Override
     public boolean eliminarPersona(int id) {
              boolean resultado = false;
         try {
